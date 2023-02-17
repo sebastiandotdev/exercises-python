@@ -2,3 +2,7 @@
 
 # ¿ que forma de lograr esto conoces  ?
 
+def number_to_string(num):
+    return str(num)
+
+# REALIZADO #
